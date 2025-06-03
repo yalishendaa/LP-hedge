@@ -1,5 +1,3 @@
-вот отформатированный и чисто оформленный `README.md`, готовый для GitHub:
-
 ---
 
 # Uniswap v3 Hedge Calculator
@@ -12,7 +10,7 @@ Supports two strategies:
 
 ---
 
-### 🔧 Requirements
+### Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -20,7 +18,7 @@ pip install -r requirements.txt
 
 ---
 
-### 🚀 Run
+### Run
 
 ```bash
 python lpshort.py
@@ -28,7 +26,7 @@ python lpshort.py
 
 ---
 
-### ✍️ Inputs
+### Inputs
 
 * Amount of ETH deposited in Aave
 * Amount of USDC borrowed and used in Uniswap LP
@@ -38,7 +36,7 @@ python lpshort.py
 
 ---
 
-### 📊 Outputs
+### Outputs
 
 * Required short size to hedge LP or LP+Aave
 * IL, real drawdown, and net PnL at given ETH price
