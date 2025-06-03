@@ -1,5 +1,3 @@
----
-
 # Uniswap v3 Hedge Calculator
 
 A simple terminal-based calculator for simulating Uniswap v3 LP positions hedged with short ETH.
