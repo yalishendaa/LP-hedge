@@ -5,11 +5,6 @@ Supports two strategies:
 - Hedge only impermanent loss (LP)
 - Hedge LP + Aave-style ETH exposure (fully neutral)
 
-### 🔧 Requirements
-
-```bash
-pip install -r requirements.txt
-
 ``` 🚀 Run
 python hedge_calc.py
 
@@ -26,3 +21,8 @@ IL, real drawdown, and net PnL at given ETH price
 Clean summary table in the console
 Built for research and educational purposes.
 Use with care. Feedback welcome.
+
+### 🔧 Requirements
+
+```bash
+pip install -r requirements.txt
