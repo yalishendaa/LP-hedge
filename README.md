@@ -2,7 +2,6 @@
 
 ---
 
-````markdown
 # Uniswap v3 Hedge Calculator
 
 A simple terminal-based calculator for simulating Uniswap v3 LP positions hedged with short ETH.
@@ -49,11 +48,3 @@ python lpshort.py
 
 > Built for research and educational purposes.
 > Use with care. Feedback welcome.
-
-```
-
----
-
-если файл называется не `lpshort.py`, просто замени название в секции `Run`.  
-хочешь — добавим скриншот с примером таблицы прямо в README.
-```
